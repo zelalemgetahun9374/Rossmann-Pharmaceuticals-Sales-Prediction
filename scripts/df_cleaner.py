@@ -47,7 +47,7 @@ def percent_missing_values(df):
     # Calculate percentage of missing values
     print("The dataset contains", round(((totalMissing/totalCells) * 100), 2), "%", "missing values.")
 
-def percent_missing_rows(df):
+def count_missing_rows(df):
 
     # Calculate total number rows with missing values
     missing_rows = sum([True for idx,row in df.iterrows() if any(row.isna())])
@@ -56,8 +56,7 @@ def percent_missing_rows(df):
     total_rows = df.shape[0]
 
     # Calculate the percentage of missing rows
-    print(round(((missing_rows/total_rows) * 100), 2), "%",
-    "of the rows in the dataset contain atleast one missing value.")
+    print(f"{missing_rows} rows({round(((missing_rows/total_rows) * 100), 2)}%) contain atleast one missing value.")
 
 # Function to calculate missing values by column
 def missing_values_table(df):
@@ -93,34 +92,69 @@ def missing_values_table(df):
     # Return the dataframe with missing information
     return mis_val_table_ren_columns
 
-def fix_missing_ffill(df, col):
-    count = df[col].isna().sum()
-    df[col] = df[col].fillna(method='ffill')
-    print(f"{count} missing values in the column {col} have been replaced using the forward fill method.")
-    return df[col]
+def fix_missing_ffill(df, cols):
+    for col in cols:
+        old = df[col].isna().sum()
+        df[col] = df[col].fillna(method='ffill')
+        new = df[col].isna().sum()
+        if new == 0:
+            print(f"{old} missing values in the column {col} have been replaced \
+                using the forward fill method.")
+        else:
+            count = old - new
+            print(f"{count} missing values in the column {col} have been replaced \
+                using the forward fill method. {new} missing values that couldn't be \
+                imputed still remain in the column {col}.")
 
 
-def fix_missing_bfill(df, col):
-    count = df[col].isna().sum()
-    df[col] = df[col].fillna(method='bfill')
-    print(f"{count} missing values in the column {col} have been replaced using the backward fill method.")
-    return df[col]
+def fix_missing_bfill(df, cols):
+    for col in cols:
+        old = df[col].isna().sum()
+        df[col] = df[col].fillna(method='bfill')
+        new = df[col].isna().sum()
+        if new == 0:
+            print(f"{old} missing values in the column {col} have been replaced \
+                using the backward fill method.")
+        else:
+            count = old - new
+            print(f"{count} missing values in the column {col} have been replaced \
+                using the backward fill method. {new} missing values that couldn't be \
+                imputed still remain in the column {col}.")
 
-def fix_missing_median(df, col):
-    median = df[col].median()
-    count = df[col].isna().sum()
-    df[col] = df[col].fillna(median)
-    print(f"{count} missing values in the column {col} have been replaced by its median value {median}.")
-    return df[col]
 
-def fix_missing_value(df, col, value):
-    count = df[col].isna().sum()
-    df[col] = df[col].fillna(value)
-    if type(value) == 'str':
-        print(f"{count} missing values in the column {col} have been replaced by '{value}'.")
-    else:
-        print(f"{count} missing values in the column {col} have been replaced by {value}.")
-    return df[col]
+def fix_missing_ffill_bfill(df, cols):
+    for col in cols:
+        count = df[col].isna().sum()
+        df[col] = df[col].fillna(method='ffill')
+        df[col] = df[col].fillna(method='bfill')
+        print(f"{count} missing values in the column {col} have been replaced \
+            first by the forward fill then by the backward fill methods.")
+
+def fix_missing_median(df, cols):
+    for col in cols:
+        median = df[col].median()
+        count = df[col].isna().sum()
+        df[col] = df[col].fillna(median)
+        print(f"{count} missing values in the column {col} have been replaced by its median value {median}.")
+
+def fix_missing_mode(df, cols):
+    for col in cols:
+        mode = df[col].mode()[0]
+        count = df[col].isna().sum()
+        df[col] = df[col].fillna(mode)
+        if type(mode) == 'str':
+            print(f"{count} missing values in the column {col} have been replaced by its mode value \'{mode}\'.")
+        else:
+            print(f"{count} missing values in the column {col} have been replaced by its mode value {mode}.")
+
+def fix_missing_value(df, cols, value):
+    for col in cols:
+        count = df[col].isna().sum()
+        df[col] = df[col].fillna(value)
+        if type(value) == 'str':
+            print(f"{count} missing values in the column {col} have been replaced by \'{value}\'.")
+        else:
+            print(f"{count} missing values in the column {col} have been replaced by {value}.")
 
 def drop_duplicates(df):
     old = df.shape[0]
