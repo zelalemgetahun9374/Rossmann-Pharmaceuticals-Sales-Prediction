@@ -12,9 +12,9 @@ class TestDfHelper(unittest.TestCase):
     def setUp(self):
         self.helper = CsvHelper()
 
-    def test_save_csv(self):
+    def test_to_csv(self):
         df = pd.DataFrame({'col1': range(1,4), 'col2': range(3,6)})
-        self.helper.save_csv(df, './test.csv', False)
+        self.helper.to_csv(df, './test.csv', False)
         df2 = pd.read_csv('test.csv')
         self.assertEqual(df.shape, df2.shape)
 

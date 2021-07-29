@@ -8,7 +8,7 @@ class CsvHelper():
     def __init__(self):
         self.logger = App_Logger().get_logger(__name__)
 
-    def save_csv(self, df, csv_path, index=False):
+    def to_csv(self, df, csv_path, index=False):
         try:
             df.to_csv(csv_path, index=index)
             self.logger.info(f'Csv file saved in {csv_path}')
