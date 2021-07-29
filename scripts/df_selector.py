@@ -13,3 +13,12 @@ def find_agg(df: pd.DataFrame, agg_column: str, agg_metric: str, col_name: str, 
 
 def first_valid_value(df: pd.DataFrame, col: str):
     return df[col].get(df[col].first_valid_index())
+
+def unique_values_df(df):
+    unique_values = {'Column': [], 'Unique values': []}
+    for col in df:
+        unique_values['Column'].append(col)
+        values = df[col].value_counts().index.to_list()
+        unique_values['Unique values'].append(values)
+    tmp = pd.DataFrame(unique_values)
+    return tmp
