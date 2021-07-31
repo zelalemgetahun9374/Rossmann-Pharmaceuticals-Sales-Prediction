@@ -43,7 +43,7 @@ The project is divided and implemented by the following phases
 The repository has a number of files including python scripts, jupyter notebooks, pdfs and text files. Here is their structure with a brief explanation.
 
 ### data:
-- the folder where the dataset csv file is stored
+- the folder where the dataset csv files are stored
 
 ### models:
 - the folder where models' pickle files are stored
@@ -53,7 +53,7 @@ The repository has a number of files including python scripts, jupyter notebooks
 
 ### scripts
 - `app_logger.py`: a python script for logging
-- `csv_helper.py`: a python script for handling reading and writing of csv files
+- `file_handler.py`: a python script for handling reading and writing of csv, pickle and other files
 - `df_cleaner.py`: a python script for cleaning pandas dataframes
 - `df_selector.py`: a python script for selecting data from a pandas dataframe
 - `df_visualizer.py`: a python script for plotting selected data
