@@ -31,7 +31,7 @@ class FileHandler():
         try:
             data_url = dvc.api.get_url(path=str(file_path), repo=str(Config.REPO), rev=version)
             self.logger.info("Data url fetched from dvc.")
-            return data_url
+            return df
 
         except Exception:
             self.logger.exception("Error while fetching data url from dvc.")
