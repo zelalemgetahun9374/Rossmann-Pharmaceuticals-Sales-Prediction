@@ -39,7 +39,8 @@ class FileHandler():
     def save_model(self, model, model_name):
         try:
             time = strftime("%Y-%m-%d-%H:%M:%S", gmtime())
-            name = Config.MODELS_PATH + model_name + time + ".pkl"
+            name = Config.MODELS_PATH / str(f'{model_name} {time}.pkl')
+            Config.MODELS_PATH.mkdir(parents=True, exist_ok=True)
             pickle.dump(model, open(str(name), "wb"))
             self.logger.info(f'{model_name} model { model_name + time }.pkl saved in {Config.MODELS_PATH}.')
 
@@ -48,7 +49,7 @@ class FileHandler():
 
     def read_model(self, model_name):
         try:
-            name = Config.MODELS_PATH + model_name + ".pkl"
+            name = Config.MODELS_PATH / str(f'{model_name}.pkl')
             model = pickle.load(open(name, "rb"))
             self.logger.info(f'{ model_name }.pkl is read from {Config.MODELS_PATH}.')
             return model
