@@ -1,60 +1,21 @@
-27-07-2021 14:18:48 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/store.csv
-27-07-2021 14:18:50 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/train.csv
-27-07-2021 14:38:12 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/train.csv
-27-07-2021 18:47:33 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/store.csv
-27-07-2021 21:48:56 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/store.csv
-27-07-2021 21:48:59 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/train.csv
-27-07-2021 22:20:32 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/store.csv
-27-07-2021 22:20:32 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/store.csv
-27-07-2021 22:20:35 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/train.csv
-27-07-2021 22:20:35 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/train.csv
-27-07-2021 22:22:13 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/store.csv
-27-07-2021 22:22:13 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/train.csv
-27-07-2021 23:52:32 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/store.csv
-27-07-2021 23:52:35 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/train.csv
-28-07-2021 11:09:13 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/store.csv
-28-07-2021 11:09:16 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/train.csv
-28-07-2021 11:28:03 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/store.csv
-28-07-2021 11:28:03 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/store.csv
-28-07-2021 11:28:06 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/train.csv
-28-07-2021 11:28:06 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/train.csv
-28-07-2021 11:29:03 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/store.csv
-28-07-2021 11:29:04 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/train.csv
-28-07-2021 11:29:52 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/store.csv
-28-07-2021 11:29:52 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/store.csv
-28-07-2021 11:29:53 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/train.csv
-28-07-2021 11:29:53 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/train.csv
-28-07-2021 11:30:28 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/store.csv
-28-07-2021 11:30:29 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/train.csv
-28-07-2021 11:38:25 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/store.csv
-28-07-2021 11:38:25 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/store.csv
-28-07-2021 11:38:26 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/train.csv
-28-07-2021 11:38:26 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/train.csv
-28-07-2021 12:16:22 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/store.csv
-28-07-2021 12:16:25 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/train.csv
-28-07-2021 18:15:25 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/store.csv
-28-07-2021 18:15:27 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/train.csv
-28-07-2021 19:00:16 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/store.csv
-28-07-2021 19:00:17 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/train.csv
-28-07-2021 19:02:12 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/store.csv
-28-07-2021 19:02:12 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/store.csv
-28-07-2021 19:02:13 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/train.csv
-28-07-2021 19:02:13 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/train.csv
-28-07-2021 19:03:00 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/store.csv
-28-07-2021 19:03:00 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/store.csv
-28-07-2021 19:03:00 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/store.csv
-28-07-2021 19:03:00 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/train.csv
-28-07-2021 19:03:00 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/train.csv
-28-07-2021 19:03:00 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/train.csv
-28-07-2021 19:32:58 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/test.csv
-28-07-2021 19:32:58 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/test.csv
-28-07-2021 19:32:58 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/test.csv
-28-07-2021 21:36:58 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/store.csv
-28-07-2021 21:37:01 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/train.csv
-28-07-2021 21:38:03 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/test.csv
-28-07-2021 23:02:46 - [ERROR] -  csv_helper - (csv_helper.py).read_csv(line 26) - File not found.
+31-07-2021 16:25:24 - [INFO] -  file_handler - (file_handler.py).read_csv(line 24) - Csv file read from test.csv.
+31-07-2021 16:25:24 - [INFO] -  file_handler - (file_handler.py).to_csv(line 16) - Csv file saved in ./test.csv.
+31-07-2021 16:25:24 - [INFO] -  file_handler - (file_handler.py).to_csv(line 16) - Csv file saved in ./test.csv.
+31-07-2021 16:31:34 - [INFO] -  file_handler - (file_handler.py).read_csv(line 24) - Csv file read from test.csv.
+31-07-2021 16:31:34 - [INFO] -  file_handler - (file_handler.py).to_csv(line 16) - Csv file saved in ./test.csv.
+31-07-2021 16:31:34 - [INFO] -  file_handler - (file_handler.py).to_csv(line 16) - Csv file saved in ./test.csv.
+31-07-2021 16:32:23 - [INFO] -  file_handler - (file_handler.py).read_csv(line 24) - Csv file read from test.csv.
+31-07-2021 16:32:23 - [INFO] -  file_handler - (file_handler.py).to_csv(line 16) - Csv file saved in ./test.csv.
+31-07-2021 16:32:23 - [INFO] -  file_handler - (file_handler.py).to_csv(line 16) - Csv file saved in ./test.csv.
+31-07-2021 16:32:35 - [INFO] -  file_handler - (file_handler.py).read_csv(line 24) - Csv file read from test.csv.
+31-07-2021 16:32:35 - [INFO] -  file_handler - (file_handler.py).to_csv(line 16) - Csv file saved in ./test.csv.
+31-07-2021 16:32:35 - [INFO] -  file_handler - (file_handler.py).to_csv(line 16) - Csv file saved in ./test.csv.
+31-07-2021 16:35:58 - [INFO] -  file_handler - (file_handler.py).read_csv(line 24) - Csv file read from test.csv.
+31-07-2021 16:35:58 - [INFO] -  file_handler - (file_handler.py).to_csv(line 16) - Csv file saved in ./test.csv.
+31-07-2021 16:35:58 - [INFO] -  file_handler - (file_handler.py).to_csv(line 16) - Csv file saved in ./test.csv.
+31-07-2021 16:41:04 - [ERROR] -  file_handler - (file_handler.py).read_csv(line 28) - File not found.
 Traceback (most recent call last):
-  File "/home/z/Documents/Rossmann-Pharmaceuticals-Sales-Prediction/scripts/csv_helper.py", line 21, in read_csv
+  File "/home/z/Documents/Rossmann-Pharmaceuticals-Sales-Prediction/scripts/file_handler.py", line 23, in read_csv
     df = pd.read_csv(csv_path, na_values=missing_values)
   File "/home/z/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 610, in read_csv
     return _read(filepath_or_buffer, kwds)
@@ -70,80 +31,473 @@ Traceback (most recent call last):
     self.handles = get_handle(
   File "/home/z/.local/lib/python3.8/site-packages/pandas/io/common.py", line 642, in get_handle
     handle = open(
-FileNotFoundError: [Errno 2] No such file or directory: 'test.csv'
-28-07-2021 23:02:46 - [INFO] -  csv_helper - (csv_helper.py).save_csv(line 14) - Csv file saved in ./test.csv
-28-07-2021 23:02:46 - [INFO] -  csv_helper - (csv_helper.py).save_csv(line 14) - Csv file saved in ./test.csv
-28-07-2021 23:04:08 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from test.csv
-28-07-2021 23:04:08 - [INFO] -  csv_helper - (csv_helper.py).save_csv(line 14) - Csv file saved in ./test.csv
-28-07-2021 23:04:08 - [INFO] -  csv_helper - (csv_helper.py).save_csv(line 14) - Csv file saved in ./test.csv
-28-07-2021 23:13:42 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/store.csv
-28-07-2021 23:13:43 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/train.csv
-29-07-2021 02:36:47 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/store.csv
-29-07-2021 02:36:50 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/train.csv
-29-07-2021 02:43:05 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from test.csv
-29-07-2021 02:43:05 - [INFO] -  csv_helper - (csv_helper.py).to_csv(line 14) - Csv file saved in ./test.csv
-29-07-2021 02:43:05 - [INFO] -  csv_helper - (csv_helper.py).to_csv(line 14) - Csv file saved in ./test.csv
-29-07-2021 02:44:36 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/store.csv
-29-07-2021 02:44:36 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/store.csv
-29-07-2021 02:44:40 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/train.csv
-29-07-2021 02:44:40 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/train.csv
-29-07-2021 02:48:30 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/store.csv
-29-07-2021 02:48:35 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/train.csv
-29-07-2021 02:49:27 - [INFO] -  csv_helper - (csv_helper.py).to_csv(line 14) - Csv file saved in ../data/clean_train.csv
-29-07-2021 02:49:27 - [INFO] -  csv_helper - (csv_helper.py).to_csv(line 14) - Csv file saved in ../data/clean_store.csv
-29-07-2021 02:49:43 - [INFO] -  csv_helper - (csv_helper.py).to_csv(line 14) - Csv file saved in ../data/merged.csv
-29-07-2021 02:49:44 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/test.csv
-29-07-2021 12:13:38 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/store.csv
-29-07-2021 12:13:43 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/train.csv
-29-07-2021 12:14:33 - [INFO] -  csv_helper - (csv_helper.py).to_csv(line 14) - Csv file saved in ../data/clean_train.csv
-29-07-2021 12:14:33 - [INFO] -  csv_helper - (csv_helper.py).to_csv(line 14) - Csv file saved in ../data/clean_store.csv
-29-07-2021 12:14:47 - [INFO] -  csv_helper - (csv_helper.py).to_csv(line 14) - Csv file saved in ../data/merged.csv
-29-07-2021 12:17:38 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/store.csv
-29-07-2021 12:17:38 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/store.csv
-29-07-2021 12:17:42 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/train.csv
-29-07-2021 12:17:42 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/train.csv
-29-07-2021 12:18:31 - [INFO] -  csv_helper - (csv_helper.py).to_csv(line 14) - Csv file saved in ../data/clean_train.csv
-29-07-2021 12:18:31 - [INFO] -  csv_helper - (csv_helper.py).to_csv(line 14) - Csv file saved in ../data/clean_train.csv
-29-07-2021 12:18:31 - [INFO] -  csv_helper - (csv_helper.py).to_csv(line 14) - Csv file saved in ../data/clean_store.csv
-29-07-2021 12:18:31 - [INFO] -  csv_helper - (csv_helper.py).to_csv(line 14) - Csv file saved in ../data/clean_store.csv
-29-07-2021 12:18:47 - [INFO] -  csv_helper - (csv_helper.py).to_csv(line 14) - Csv file saved in ../data/merged.csv
-29-07-2021 12:18:47 - [INFO] -  csv_helper - (csv_helper.py).to_csv(line 14) - Csv file saved in ../data/merged.csv
-29-07-2021 12:22:10 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/store.csv
-29-07-2021 12:22:10 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/store.csv
-29-07-2021 12:22:10 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/store.csv
-29-07-2021 12:22:13 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/train.csv
-29-07-2021 12:22:13 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/train.csv
-29-07-2021 12:22:13 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/train.csv
-29-07-2021 12:23:03 - [INFO] -  csv_helper - (csv_helper.py).to_csv(line 14) - Csv file saved in ../data/clean_train.csv
-29-07-2021 12:23:03 - [INFO] -  csv_helper - (csv_helper.py).to_csv(line 14) - Csv file saved in ../data/clean_train.csv
-29-07-2021 12:23:03 - [INFO] -  csv_helper - (csv_helper.py).to_csv(line 14) - Csv file saved in ../data/clean_train.csv
-29-07-2021 12:23:03 - [INFO] -  csv_helper - (csv_helper.py).to_csv(line 14) - Csv file saved in ../data/clean_store.csv
-29-07-2021 12:23:03 - [INFO] -  csv_helper - (csv_helper.py).to_csv(line 14) - Csv file saved in ../data/clean_store.csv
-29-07-2021 12:23:03 - [INFO] -  csv_helper - (csv_helper.py).to_csv(line 14) - Csv file saved in ../data/clean_store.csv
-29-07-2021 12:23:16 - [INFO] -  csv_helper - (csv_helper.py).to_csv(line 14) - Csv file saved in ../data/merged.csv
-29-07-2021 12:23:16 - [INFO] -  csv_helper - (csv_helper.py).to_csv(line 14) - Csv file saved in ../data/merged.csv
-29-07-2021 12:23:16 - [INFO] -  csv_helper - (csv_helper.py).to_csv(line 14) - Csv file saved in ../data/merged.csv
-29-07-2021 12:35:59 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/store.csv
-29-07-2021 12:36:02 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/train.csv
-29-07-2021 12:36:43 - [INFO] -  csv_helper - (csv_helper.py).to_csv(line 14) - Csv file saved in ../data/clean_train.csv
-29-07-2021 12:36:43 - [INFO] -  csv_helper - (csv_helper.py).to_csv(line 14) - Csv file saved in ../data/clean_store.csv
-29-07-2021 12:36:58 - [INFO] -  csv_helper - (csv_helper.py).to_csv(line 14) - Csv file saved in ../data/merged.csv
-29-07-2021 12:46:26 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/store.csv
-29-07-2021 12:46:26 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/store.csv
-29-07-2021 12:46:32 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/train.csv
-29-07-2021 12:46:32 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/train.csv
-29-07-2021 12:47:15 - [INFO] -  csv_helper - (csv_helper.py).to_csv(line 14) - Csv file saved in ../data/clean_train.csv
-29-07-2021 12:47:15 - [INFO] -  csv_helper - (csv_helper.py).to_csv(line 14) - Csv file saved in ../data/clean_train.csv
-29-07-2021 12:47:15 - [INFO] -  csv_helper - (csv_helper.py).to_csv(line 14) - Csv file saved in ../data/clean_store.csv
-29-07-2021 12:47:15 - [INFO] -  csv_helper - (csv_helper.py).to_csv(line 14) - Csv file saved in ../data/clean_store.csv
-29-07-2021 12:47:27 - [INFO] -  csv_helper - (csv_helper.py).to_csv(line 14) - Csv file saved in ../data/merged.csv
-29-07-2021 12:47:27 - [INFO] -  csv_helper - (csv_helper.py).to_csv(line 14) - Csv file saved in ../data/merged.csv
-29-07-2021 13:40:49 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/test.csv
-29-07-2021 13:40:49 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/test.csv
-29-07-2021 21:41:22 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/store.csv
-29-07-2021 21:41:28 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/train.csv
-29-07-2021 21:42:17 - [INFO] -  csv_helper - (csv_helper.py).to_csv(line 14) - Csv file saved in ../data/clean_train.csv
-29-07-2021 21:42:17 - [INFO] -  csv_helper - (csv_helper.py).to_csv(line 14) - Csv file saved in ../data/clean_store.csv
-29-07-2021 21:42:32 - [INFO] -  csv_helper - (csv_helper.py).to_csv(line 14) - Csv file saved in ../data/merged.csv
-29-07-2021 21:48:09 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/test.csv
-30-07-2021 00:04:41 - [INFO] -  csv_helper - (csv_helper.py).read_csv(line 22) - Csv file read from ../data/train.csv
+FileNotFoundError: [Errno 2] No such file or directory: '../data/store.csv'
+31-07-2021 16:43:52 - [ERROR] -  file_handler - (file_handler.py).get_data_url_from_dvc(line 37) - Error while fetching data url from dvc.
+Traceback (most recent call last):
+  File "/home/z/.local/lib/python3.8/site-packages/funcy/flow.py", line 112, in reraise
+    yield
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/api.py", line 25, in get_url
+    metadata = _repo.repo_fs.metadata(path_info)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/fs/repo.py", line 409, in metadata
+    raise FileNotFoundError
+FileNotFoundError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/z/Documents/Rossmann-Pharmaceuticals-Sales-Prediction/scripts/file_handler.py", line 32, in get_data_url_from_dvc
+    data_url = dvc.api.get_url(path=str(file_path), repo=str(Config.REPO), rev=version)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/api.py", line 25, in get_url
+    metadata = _repo.repo_fs.metadata(path_info)
+  File "/home/z/anaconda3/lib/python3.8/contextlib.py", line 131, in __exit__
+    self.gen.throw(type, value, traceback)
+  File "/home/z/.local/lib/python3.8/site-packages/funcy/flow.py", line 116, in reraise
+    raise_from(into, e)
+  File "<string>", line 3, in raise_from
+dvc.exceptions.PathMissingError: The path '../data/store.csv' does not exist in the target repository '~/Documents/Rossmann-Pharmaceuticals-Sales-Prediction' neither as a DVC output nor as a Git-tracked file.
+31-07-2021 16:48:42 - [ERROR] -  file_handler - (file_handler.py).get_data_url_from_dvc(line 38) - Error while fetching data url from dvc.
+Traceback (most recent call last):
+  File "/home/z/.local/lib/python3.8/site-packages/funcy/flow.py", line 112, in reraise
+    yield
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/api.py", line 25, in get_url
+    metadata = _repo.repo_fs.metadata(path_info)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/fs/repo.py", line 409, in metadata
+    raise FileNotFoundError
+FileNotFoundError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/z/Documents/Rossmann-Pharmaceuticals-Sales-Prediction/scripts/file_handler.py", line 32, in get_data_url_from_dvc
+    data_url = dvc.api.get_url(path=str(file_path), repo=str(Config.REPO), rev=version)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/api.py", line 25, in get_url
+    metadata = _repo.repo_fs.metadata(path_info)
+  File "/home/z/anaconda3/lib/python3.8/contextlib.py", line 131, in __exit__
+    self.gen.throw(type, value, traceback)
+  File "/home/z/.local/lib/python3.8/site-packages/funcy/flow.py", line 116, in reraise
+    raise_from(into, e)
+  File "<string>", line 3, in raise_from
+dvc.exceptions.PathMissingError: The path '../data/store.csv' does not exist in the target repository '~/Documents/Rossmann-Pharmaceuticals-Sales-Prediction' neither as a DVC output nor as a Git-tracked file.
+31-07-2021 16:50:35 - [ERROR] -  file_handler - (file_handler.py).get_data_url_from_dvc(line 38) - Error while fetching data url from dvc.
+Traceback (most recent call last):
+  File "/home/z/Documents/Rossmann-Pharmaceuticals-Sales-Prediction/scripts/file_handler.py", line 32, in get_data_url_from_dvc
+    data_url = dvc.api.get_url(path=str(file_path), repo=str(Config.REPO), rev=version)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/api.py", line 22, in get_url
+    with Repo.open(repo, rev=rev, subrepos=True, uninitialized=True) as _repo:
+  File "/home/z/anaconda3/lib/python3.8/contextlib.py", line 113, in __enter__
+    return next(self.gen)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/external_repo.py", line 32, in external_repo
+    path = _cached_clone(url, rev, for_write=for_write)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/external_repo.py", line 148, in _cached_clone
+    clone_path, shallow = _clone_default_branch(url, rev, for_write=for_write)
+  File "/home/z/.local/lib/python3.8/site-packages/funcy/decorators.py", line 45, in wrapper
+    return deco(call, *dargs, **dkwargs)
+  File "/home/z/.local/lib/python3.8/site-packages/funcy/flow.py", line 274, in wrap_with
+    return call()
+  File "/home/z/.local/lib/python3.8/site-packages/funcy/decorators.py", line 66, in __call__
+    return self._func(*self._args, **self._kwargs)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/external_repo.py", line 190, in _clone_default_branch
+    _unshallow(git)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/external_repo.py", line 232, in _unshallow
+    git.pull(unshallow=True)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/scm/git/__init__.py", line 343, in _backend_func
+    return func(*args, **kwargs)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/scm/git/backend/gitpython.py", line 244, in pull
+    infos = self.repo.remote().pull(**kwargs)
+  File "/home/z/.local/lib/python3.8/site-packages/git/remote.py", line 849, in pull
+    res = self._get_fetch_info_from_stderr(proc, progress)
+  File "/home/z/.local/lib/python3.8/site-packages/git/remote.py", line 702, in _get_fetch_info_from_stderr
+    proc.wait(stderr=stderr_text)
+  File "/home/z/.local/lib/python3.8/site-packages/git/cmd.py", line 447, in wait
+    raise GitCommandError(remove_password_if_present(self.args), status, errstr)
+git.exc.GitCommandError: Cmd('git') failed due to: exit code(1)
+  cmdline: git pull -v --unshallow origin
+  stderr: 'fatal: --unshallow on a complete repository does not make sense'
+31-07-2021 16:50:41 - [ERROR] -  file_handler - (file_handler.py).get_data_url_from_dvc(line 38) - Error while fetching data url from dvc.
+Traceback (most recent call last):
+  File "/home/z/Documents/Rossmann-Pharmaceuticals-Sales-Prediction/scripts/file_handler.py", line 32, in get_data_url_from_dvc
+    data_url = dvc.api.get_url(path=str(file_path), repo=str(Config.REPO), rev=version)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/api.py", line 22, in get_url
+    with Repo.open(repo, rev=rev, subrepos=True, uninitialized=True) as _repo:
+  File "/home/z/anaconda3/lib/python3.8/contextlib.py", line 113, in __enter__
+    return next(self.gen)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/external_repo.py", line 32, in external_repo
+    path = _cached_clone(url, rev, for_write=for_write)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/external_repo.py", line 148, in _cached_clone
+    clone_path, shallow = _clone_default_branch(url, rev, for_write=for_write)
+  File "/home/z/.local/lib/python3.8/site-packages/funcy/decorators.py", line 45, in wrapper
+    return deco(call, *dargs, **dkwargs)
+  File "/home/z/.local/lib/python3.8/site-packages/funcy/flow.py", line 274, in wrap_with
+    return call()
+  File "/home/z/.local/lib/python3.8/site-packages/funcy/decorators.py", line 66, in __call__
+    return self._func(*self._args, **self._kwargs)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/external_repo.py", line 190, in _clone_default_branch
+    _unshallow(git)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/external_repo.py", line 232, in _unshallow
+    git.pull(unshallow=True)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/scm/git/__init__.py", line 343, in _backend_func
+    return func(*args, **kwargs)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/scm/git/backend/gitpython.py", line 244, in pull
+    infos = self.repo.remote().pull(**kwargs)
+  File "/home/z/.local/lib/python3.8/site-packages/git/remote.py", line 849, in pull
+    res = self._get_fetch_info_from_stderr(proc, progress)
+  File "/home/z/.local/lib/python3.8/site-packages/git/remote.py", line 702, in _get_fetch_info_from_stderr
+    proc.wait(stderr=stderr_text)
+  File "/home/z/.local/lib/python3.8/site-packages/git/cmd.py", line 447, in wait
+    raise GitCommandError(remove_password_if_present(self.args), status, errstr)
+git.exc.GitCommandError: Cmd('git') failed due to: exit code(1)
+  cmdline: git pull -v --unshallow origin
+  stderr: 'fatal: --unshallow on a complete repository does not make sense'
+31-07-2021 16:52:43 - [ERROR] -  file_handler - (file_handler.py).get_data_url_from_dvc(line 38) - Error while fetching data url from dvc.
+Traceback (most recent call last):
+  File "/home/z/Documents/Rossmann-Pharmaceuticals-Sales-Prediction/scripts/file_handler.py", line 32, in get_data_url_from_dvc
+    data_url = dvc.api.get_url(path=str(file_path), repo=str(Config.REPO), rev=version)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/api.py", line 22, in get_url
+    with Repo.open(repo, rev=rev, subrepos=True, uninitialized=True) as _repo:
+  File "/home/z/anaconda3/lib/python3.8/contextlib.py", line 113, in __enter__
+    return next(self.gen)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/external_repo.py", line 32, in external_repo
+    path = _cached_clone(url, rev, for_write=for_write)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/external_repo.py", line 148, in _cached_clone
+    clone_path, shallow = _clone_default_branch(url, rev, for_write=for_write)
+  File "/home/z/.local/lib/python3.8/site-packages/funcy/decorators.py", line 45, in wrapper
+    return deco(call, *dargs, **dkwargs)
+  File "/home/z/.local/lib/python3.8/site-packages/funcy/flow.py", line 274, in wrap_with
+    return call()
+  File "/home/z/.local/lib/python3.8/site-packages/funcy/decorators.py", line 66, in __call__
+    return self._func(*self._args, **self._kwargs)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/external_repo.py", line 190, in _clone_default_branch
+    _unshallow(git)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/external_repo.py", line 232, in _unshallow
+    git.pull(unshallow=True)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/scm/git/__init__.py", line 343, in _backend_func
+    return func(*args, **kwargs)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/scm/git/backend/gitpython.py", line 244, in pull
+    infos = self.repo.remote().pull(**kwargs)
+  File "/home/z/.local/lib/python3.8/site-packages/git/remote.py", line 849, in pull
+    res = self._get_fetch_info_from_stderr(proc, progress)
+  File "/home/z/.local/lib/python3.8/site-packages/git/remote.py", line 702, in _get_fetch_info_from_stderr
+    proc.wait(stderr=stderr_text)
+  File "/home/z/.local/lib/python3.8/site-packages/git/cmd.py", line 447, in wait
+    raise GitCommandError(remove_password_if_present(self.args), status, errstr)
+git.exc.GitCommandError: Cmd('git') failed due to: exit code(1)
+  cmdline: git pull -v --unshallow origin
+  stderr: 'fatal: --unshallow on a complete repository does not make sense'
+31-07-2021 16:52:45 - [ERROR] -  file_handler - (file_handler.py).get_data_url_from_dvc(line 38) - Error while fetching data url from dvc.
+Traceback (most recent call last):
+  File "/home/z/Documents/Rossmann-Pharmaceuticals-Sales-Prediction/scripts/file_handler.py", line 32, in get_data_url_from_dvc
+    data_url = dvc.api.get_url(path=str(file_path), repo=str(Config.REPO), rev=version)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/api.py", line 22, in get_url
+    with Repo.open(repo, rev=rev, subrepos=True, uninitialized=True) as _repo:
+  File "/home/z/anaconda3/lib/python3.8/contextlib.py", line 113, in __enter__
+    return next(self.gen)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/external_repo.py", line 32, in external_repo
+    path = _cached_clone(url, rev, for_write=for_write)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/external_repo.py", line 148, in _cached_clone
+    clone_path, shallow = _clone_default_branch(url, rev, for_write=for_write)
+  File "/home/z/.local/lib/python3.8/site-packages/funcy/decorators.py", line 45, in wrapper
+    return deco(call, *dargs, **dkwargs)
+  File "/home/z/.local/lib/python3.8/site-packages/funcy/flow.py", line 274, in wrap_with
+    return call()
+  File "/home/z/.local/lib/python3.8/site-packages/funcy/decorators.py", line 66, in __call__
+    return self._func(*self._args, **self._kwargs)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/external_repo.py", line 190, in _clone_default_branch
+    _unshallow(git)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/external_repo.py", line 232, in _unshallow
+    git.pull(unshallow=True)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/scm/git/__init__.py", line 343, in _backend_func
+    return func(*args, **kwargs)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/scm/git/backend/gitpython.py", line 244, in pull
+    infos = self.repo.remote().pull(**kwargs)
+  File "/home/z/.local/lib/python3.8/site-packages/git/remote.py", line 849, in pull
+    res = self._get_fetch_info_from_stderr(proc, progress)
+  File "/home/z/.local/lib/python3.8/site-packages/git/remote.py", line 702, in _get_fetch_info_from_stderr
+    proc.wait(stderr=stderr_text)
+  File "/home/z/.local/lib/python3.8/site-packages/git/cmd.py", line 447, in wait
+    raise GitCommandError(remove_password_if_present(self.args), status, errstr)
+git.exc.GitCommandError: Cmd('git') failed due to: exit code(1)
+  cmdline: git pull -v --unshallow origin
+  stderr: 'fatal: --unshallow on a complete repository does not make sense'
+31-07-2021 16:53:23 - [ERROR] -  file_handler - (file_handler.py).get_data_url_from_dvc(line 38) - Error while fetching data url from dvc.
+Traceback (most recent call last):
+  File "/home/z/.local/lib/python3.8/site-packages/funcy/flow.py", line 112, in reraise
+    yield
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/api.py", line 25, in get_url
+    metadata = _repo.repo_fs.metadata(path_info)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/fs/repo.py", line 409, in metadata
+    raise FileNotFoundError
+FileNotFoundError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/z/Documents/Rossmann-Pharmaceuticals-Sales-Prediction/scripts/file_handler.py", line 32, in get_data_url_from_dvc
+    data_url = dvc.api.get_url(path=str(file_path), repo=str(Config.REPO), rev=version)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/api.py", line 25, in get_url
+    metadata = _repo.repo_fs.metadata(path_info)
+  File "/home/z/anaconda3/lib/python3.8/contextlib.py", line 131, in __exit__
+    self.gen.throw(type, value, traceback)
+  File "/home/z/.local/lib/python3.8/site-packages/funcy/flow.py", line 116, in reraise
+    raise_from(into, e)
+  File "<string>", line 3, in raise_from
+dvc.exceptions.PathMissingError: The path '../data/store.csv' does not exist in the target repository '~/Documents/Rossmann-Pharmaceuticals-Sales-Prediction' neither as a DVC output nor as a Git-tracked file.
+31-07-2021 17:03:16 - [ERROR] -  file_handler - (file_handler.py).get_data_url_from_dvc(line 39) - Error while fetching data url from dvc.
+Traceback (most recent call last):
+  File "/home/z/.local/lib/python3.8/site-packages/funcy/flow.py", line 112, in reraise
+    yield
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/api.py", line 25, in get_url
+    metadata = _repo.repo_fs.metadata(path_info)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/fs/repo.py", line 409, in metadata
+    raise FileNotFoundError
+FileNotFoundError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/z/Documents/Rossmann-Pharmaceuticals-Sales-Prediction/scripts/file_handler.py", line 32, in get_data_url_from_dvc
+    data_url = dvc.api.get_url(path=str(file_path), repo=str(Config.REPO), rev=version)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/api.py", line 25, in get_url
+    metadata = _repo.repo_fs.metadata(path_info)
+  File "/home/z/anaconda3/lib/python3.8/contextlib.py", line 131, in __exit__
+    self.gen.throw(type, value, traceback)
+  File "/home/z/.local/lib/python3.8/site-packages/funcy/flow.py", line 116, in reraise
+    raise_from(into, e)
+  File "<string>", line 3, in raise_from
+dvc.exceptions.PathMissingError: The path '../data/store.csv' does not exist in the target repository '~/Documents/Rossmann-Pharmaceuticals-Sales-Prediction' neither as a DVC output nor as a Git-tracked file.
+31-07-2021 17:03:20 - [ERROR] -  file_handler - (file_handler.py).get_data_url_from_dvc(line 39) - Error while fetching data url from dvc.
+Traceback (most recent call last):
+  File "/home/z/Documents/Rossmann-Pharmaceuticals-Sales-Prediction/scripts/file_handler.py", line 32, in get_data_url_from_dvc
+    data_url = dvc.api.get_url(path=str(file_path), repo=str(Config.REPO), rev=version)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/api.py", line 22, in get_url
+    with Repo.open(repo, rev=rev, subrepos=True, uninitialized=True) as _repo:
+  File "/home/z/anaconda3/lib/python3.8/contextlib.py", line 113, in __enter__
+    return next(self.gen)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/external_repo.py", line 32, in external_repo
+    path = _cached_clone(url, rev, for_write=for_write)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/external_repo.py", line 148, in _cached_clone
+    clone_path, shallow = _clone_default_branch(url, rev, for_write=for_write)
+  File "/home/z/.local/lib/python3.8/site-packages/funcy/decorators.py", line 45, in wrapper
+    return deco(call, *dargs, **dkwargs)
+  File "/home/z/.local/lib/python3.8/site-packages/funcy/flow.py", line 274, in wrap_with
+    return call()
+  File "/home/z/.local/lib/python3.8/site-packages/funcy/decorators.py", line 66, in __call__
+    return self._func(*self._args, **self._kwargs)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/external_repo.py", line 190, in _clone_default_branch
+    _unshallow(git)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/external_repo.py", line 232, in _unshallow
+    git.pull(unshallow=True)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/scm/git/__init__.py", line 343, in _backend_func
+    return func(*args, **kwargs)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/scm/git/backend/gitpython.py", line 244, in pull
+    infos = self.repo.remote().pull(**kwargs)
+  File "/home/z/.local/lib/python3.8/site-packages/git/remote.py", line 849, in pull
+    res = self._get_fetch_info_from_stderr(proc, progress)
+  File "/home/z/.local/lib/python3.8/site-packages/git/remote.py", line 702, in _get_fetch_info_from_stderr
+    proc.wait(stderr=stderr_text)
+  File "/home/z/.local/lib/python3.8/site-packages/git/cmd.py", line 447, in wait
+    raise GitCommandError(remove_password_if_present(self.args), status, errstr)
+git.exc.GitCommandError: Cmd('git') failed due to: exit code(1)
+  cmdline: git pull -v --unshallow origin
+  stderr: 'fatal: --unshallow on a complete repository does not make sense'
+31-07-2021 17:03:47 - [ERROR] -  file_handler - (file_handler.py).get_data_url_from_dvc(line 39) - Error while fetching data url from dvc.
+Traceback (most recent call last):
+  File "/home/z/Documents/Rossmann-Pharmaceuticals-Sales-Prediction/scripts/file_handler.py", line 32, in get_data_url_from_dvc
+    data_url = dvc.api.get_url(path=str(file_path), repo=str(Config.REPO), rev=version)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/api.py", line 22, in get_url
+    with Repo.open(repo, rev=rev, subrepos=True, uninitialized=True) as _repo:
+  File "/home/z/anaconda3/lib/python3.8/contextlib.py", line 113, in __enter__
+    return next(self.gen)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/external_repo.py", line 32, in external_repo
+    path = _cached_clone(url, rev, for_write=for_write)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/external_repo.py", line 148, in _cached_clone
+    clone_path, shallow = _clone_default_branch(url, rev, for_write=for_write)
+  File "/home/z/.local/lib/python3.8/site-packages/funcy/decorators.py", line 45, in wrapper
+    return deco(call, *dargs, **dkwargs)
+  File "/home/z/.local/lib/python3.8/site-packages/funcy/flow.py", line 274, in wrap_with
+    return call()
+  File "/home/z/.local/lib/python3.8/site-packages/funcy/decorators.py", line 66, in __call__
+    return self._func(*self._args, **self._kwargs)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/external_repo.py", line 190, in _clone_default_branch
+    _unshallow(git)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/external_repo.py", line 232, in _unshallow
+    git.pull(unshallow=True)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/scm/git/__init__.py", line 343, in _backend_func
+    return func(*args, **kwargs)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/scm/git/backend/gitpython.py", line 244, in pull
+    infos = self.repo.remote().pull(**kwargs)
+  File "/home/z/.local/lib/python3.8/site-packages/git/remote.py", line 849, in pull
+    res = self._get_fetch_info_from_stderr(proc, progress)
+  File "/home/z/.local/lib/python3.8/site-packages/git/remote.py", line 702, in _get_fetch_info_from_stderr
+    proc.wait(stderr=stderr_text)
+  File "/home/z/.local/lib/python3.8/site-packages/git/cmd.py", line 447, in wait
+    raise GitCommandError(remove_password_if_present(self.args), status, errstr)
+git.exc.GitCommandError: Cmd('git') failed due to: exit code(1)
+  cmdline: git pull -v --unshallow origin
+  stderr: 'fatal: --unshallow on a complete repository does not make sense'
+31-07-2021 17:03:51 - [ERROR] -  file_handler - (file_handler.py).get_data_url_from_dvc(line 39) - Error while fetching data url from dvc.
+Traceback (most recent call last):
+  File "/home/z/Documents/Rossmann-Pharmaceuticals-Sales-Prediction/scripts/file_handler.py", line 32, in get_data_url_from_dvc
+    data_url = dvc.api.get_url(path=str(file_path), repo=str(Config.REPO), rev=version)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/api.py", line 22, in get_url
+    with Repo.open(repo, rev=rev, subrepos=True, uninitialized=True) as _repo:
+  File "/home/z/anaconda3/lib/python3.8/contextlib.py", line 113, in __enter__
+    return next(self.gen)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/external_repo.py", line 32, in external_repo
+    path = _cached_clone(url, rev, for_write=for_write)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/external_repo.py", line 148, in _cached_clone
+    clone_path, shallow = _clone_default_branch(url, rev, for_write=for_write)
+  File "/home/z/.local/lib/python3.8/site-packages/funcy/decorators.py", line 45, in wrapper
+    return deco(call, *dargs, **dkwargs)
+  File "/home/z/.local/lib/python3.8/site-packages/funcy/flow.py", line 274, in wrap_with
+    return call()
+  File "/home/z/.local/lib/python3.8/site-packages/funcy/decorators.py", line 66, in __call__
+    return self._func(*self._args, **self._kwargs)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/external_repo.py", line 190, in _clone_default_branch
+    _unshallow(git)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/external_repo.py", line 232, in _unshallow
+    git.pull(unshallow=True)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/scm/git/__init__.py", line 343, in _backend_func
+    return func(*args, **kwargs)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/scm/git/backend/gitpython.py", line 244, in pull
+    infos = self.repo.remote().pull(**kwargs)
+  File "/home/z/.local/lib/python3.8/site-packages/git/remote.py", line 849, in pull
+    res = self._get_fetch_info_from_stderr(proc, progress)
+  File "/home/z/.local/lib/python3.8/site-packages/git/remote.py", line 702, in _get_fetch_info_from_stderr
+    proc.wait(stderr=stderr_text)
+  File "/home/z/.local/lib/python3.8/site-packages/git/cmd.py", line 447, in wait
+    raise GitCommandError(remove_password_if_present(self.args), status, errstr)
+git.exc.GitCommandError: Cmd('git') failed due to: exit code(1)
+  cmdline: git pull -v --unshallow origin
+  stderr: 'fatal: --unshallow on a complete repository does not make sense'
+31-07-2021 17:03:53 - [ERROR] -  file_handler - (file_handler.py).get_data_url_from_dvc(line 39) - Error while fetching data url from dvc.
+Traceback (most recent call last):
+  File "/home/z/Documents/Rossmann-Pharmaceuticals-Sales-Prediction/scripts/file_handler.py", line 32, in get_data_url_from_dvc
+    data_url = dvc.api.get_url(path=str(file_path), repo=str(Config.REPO), rev=version)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/api.py", line 22, in get_url
+    with Repo.open(repo, rev=rev, subrepos=True, uninitialized=True) as _repo:
+  File "/home/z/anaconda3/lib/python3.8/contextlib.py", line 113, in __enter__
+    return next(self.gen)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/external_repo.py", line 32, in external_repo
+    path = _cached_clone(url, rev, for_write=for_write)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/external_repo.py", line 148, in _cached_clone
+    clone_path, shallow = _clone_default_branch(url, rev, for_write=for_write)
+  File "/home/z/.local/lib/python3.8/site-packages/funcy/decorators.py", line 45, in wrapper
+    return deco(call, *dargs, **dkwargs)
+  File "/home/z/.local/lib/python3.8/site-packages/funcy/flow.py", line 274, in wrap_with
+    return call()
+  File "/home/z/.local/lib/python3.8/site-packages/funcy/decorators.py", line 66, in __call__
+    return self._func(*self._args, **self._kwargs)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/external_repo.py", line 190, in _clone_default_branch
+    _unshallow(git)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/external_repo.py", line 232, in _unshallow
+    git.pull(unshallow=True)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/scm/git/__init__.py", line 343, in _backend_func
+    return func(*args, **kwargs)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/scm/git/backend/gitpython.py", line 244, in pull
+    infos = self.repo.remote().pull(**kwargs)
+  File "/home/z/.local/lib/python3.8/site-packages/git/remote.py", line 849, in pull
+    res = self._get_fetch_info_from_stderr(proc, progress)
+  File "/home/z/.local/lib/python3.8/site-packages/git/remote.py", line 702, in _get_fetch_info_from_stderr
+    proc.wait(stderr=stderr_text)
+  File "/home/z/.local/lib/python3.8/site-packages/git/cmd.py", line 447, in wait
+    raise GitCommandError(remove_password_if_present(self.args), status, errstr)
+git.exc.GitCommandError: Cmd('git') failed due to: exit code(1)
+  cmdline: git pull -v --unshallow origin
+  stderr: 'fatal: --unshallow on a complete repository does not make sense'
+31-07-2021 17:03:54 - [ERROR] -  file_handler - (file_handler.py).get_data_url_from_dvc(line 39) - Error while fetching data url from dvc.
+Traceback (most recent call last):
+  File "/home/z/Documents/Rossmann-Pharmaceuticals-Sales-Prediction/scripts/file_handler.py", line 32, in get_data_url_from_dvc
+    data_url = dvc.api.get_url(path=str(file_path), repo=str(Config.REPO), rev=version)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/api.py", line 22, in get_url
+    with Repo.open(repo, rev=rev, subrepos=True, uninitialized=True) as _repo:
+  File "/home/z/anaconda3/lib/python3.8/contextlib.py", line 113, in __enter__
+    return next(self.gen)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/external_repo.py", line 32, in external_repo
+    path = _cached_clone(url, rev, for_write=for_write)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/external_repo.py", line 148, in _cached_clone
+    clone_path, shallow = _clone_default_branch(url, rev, for_write=for_write)
+  File "/home/z/.local/lib/python3.8/site-packages/funcy/decorators.py", line 45, in wrapper
+    return deco(call, *dargs, **dkwargs)
+  File "/home/z/.local/lib/python3.8/site-packages/funcy/flow.py", line 274, in wrap_with
+    return call()
+  File "/home/z/.local/lib/python3.8/site-packages/funcy/decorators.py", line 66, in __call__
+    return self._func(*self._args, **self._kwargs)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/external_repo.py", line 190, in _clone_default_branch
+    _unshallow(git)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/external_repo.py", line 232, in _unshallow
+    git.pull(unshallow=True)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/scm/git/__init__.py", line 343, in _backend_func
+    return func(*args, **kwargs)
+  File "/home/z/.local/lib/python3.8/site-packages/dvc/scm/git/backend/gitpython.py", line 244, in pull
+    infos = self.repo.remote().pull(**kwargs)
+  File "/home/z/.local/lib/python3.8/site-packages/git/remote.py", line 849, in pull
+    res = self._get_fetch_info_from_stderr(proc, progress)
+  File "/home/z/.local/lib/python3.8/site-packages/git/remote.py", line 702, in _get_fetch_info_from_stderr
+    proc.wait(stderr=stderr_text)
+  File "/home/z/.local/lib/python3.8/site-packages/git/cmd.py", line 447, in wait
+    raise GitCommandError(remove_password_if_present(self.args), status, errstr)
+git.exc.GitCommandError: Cmd('git') failed due to: exit code(1)
+  cmdline: git pull -v --unshallow origin
+  stderr: 'fatal: --unshallow on a complete repository does not make sense'
+31-07-2021 17:04:36 - [INFO] -  file_handler - (file_handler.py).read_csv(line 24) - Csv file read from ../data/store.csv.
+31-07-2021 17:04:43 - [INFO] -  file_handler - (file_handler.py).read_csv(line 24) - Csv file read from ../data/store.csv.
+31-07-2021 17:04:56 - [INFO] -  file_handler - (file_handler.py).read_csv(line 24) - Csv file read from ../data/store.csv.
+31-07-2021 17:04:56 - [INFO] -  file_handler - (file_handler.py).read_csv(line 24) - Csv file read from ../data/store.csv.
+31-07-2021 17:08:49 - [INFO] -  file_handler - (file_handler.py).read_csv(line 24) - Csv file read from ../data/store.csv.
+31-07-2021 17:10:57 - [INFO] -  file_handler - (file_handler.py).read_csv(line 24) - Csv file read from ../data/store.csv.
+31-07-2021 17:11:07 - [INFO] -  file_handler - (file_handler.py).read_csv(line 24) - Csv file read from ../data/train.csv.
+31-07-2021 17:17:28 - [INFO] -  file_handler - (file_handler.py).read_csv(line 24) - Csv file read from ../data/store.csv.
+31-07-2021 17:17:28 - [INFO] -  file_handler - (file_handler.py).read_csv(line 24) - Csv file read from ../data/store.csv.
+31-07-2021 17:17:30 - [INFO] -  file_handler - (file_handler.py).read_csv(line 24) - Csv file read from ../data/train.csv.
+31-07-2021 17:17:30 - [INFO] -  file_handler - (file_handler.py).read_csv(line 24) - Csv file read from ../data/train.csv.
+31-07-2021 17:29:58 - [INFO] -  file_handler - (file_handler.py).to_csv(line 16) - Csv file saved in ../data/train.csv.
+31-07-2021 17:29:58 - [INFO] -  file_handler - (file_handler.py).to_csv(line 16) - Csv file saved in ../data/train.csv.
+31-07-2021 17:29:58 - [INFO] -  file_handler - (file_handler.py).to_csv(line 16) - Csv file saved in ../data/store.csv.
+31-07-2021 17:29:58 - [INFO] -  file_handler - (file_handler.py).to_csv(line 16) - Csv file saved in ../data/store.csv.
+31-07-2021 17:31:14 - [INFO] -  file_handler - (file_handler.py).to_csv(line 16) - Csv file saved in ../data/train.csv.
+31-07-2021 17:31:14 - [INFO] -  file_handler - (file_handler.py).to_csv(line 16) - Csv file saved in ../data/train.csv.
+31-07-2021 17:31:14 - [INFO] -  file_handler - (file_handler.py).to_csv(line 16) - Csv file saved in ../data/store.csv.
+31-07-2021 17:31:14 - [INFO] -  file_handler - (file_handler.py).to_csv(line 16) - Csv file saved in ../data/store.csv.
+31-07-2021 17:35:16 - [INFO] -  file_handler - (file_handler.py).to_csv(line 16) - Csv file saved in ../data/train.csv.
+31-07-2021 17:35:16 - [INFO] -  file_handler - (file_handler.py).to_csv(line 16) - Csv file saved in ../data/train.csv.
+31-07-2021 17:35:25 - [INFO] -  file_handler - (file_handler.py).to_csv(line 16) - Csv file saved in ../data/store.csv.
+31-07-2021 17:35:25 - [INFO] -  file_handler - (file_handler.py).to_csv(line 16) - Csv file saved in ../data/store.csv.
+31-07-2021 17:35:57 - [INFO] -  file_handler - (file_handler.py).to_csv(line 16) - Csv file saved in ../data/train.csv.
+31-07-2021 17:35:57 - [INFO] -  file_handler - (file_handler.py).to_csv(line 16) - Csv file saved in ../data/train.csv.
+31-07-2021 17:35:57 - [INFO] -  file_handler - (file_handler.py).to_csv(line 16) - Csv file saved in ../data/store.csv.
+31-07-2021 17:35:57 - [INFO] -  file_handler - (file_handler.py).to_csv(line 16) - Csv file saved in ../data/store.csv.
+31-07-2021 17:47:43 - [INFO] -  file_handler - (file_handler.py).to_csv(line 16) - Csv file saved in ../data/train.csv.
+31-07-2021 17:47:43 - [INFO] -  file_handler - (file_handler.py).to_csv(line 16) - Csv file saved in ../data/train.csv.
+31-07-2021 17:49:26 - [INFO] -  file_handler - (file_handler.py).to_csv(line 16) - Csv file saved in ../data/train.csv.
+31-07-2021 17:49:26 - [INFO] -  file_handler - (file_handler.py).to_csv(line 16) - Csv file saved in ../data/train.csv.
+31-07-2021 17:50:40 - [INFO] -  file_handler - (file_handler.py).to_csv(line 16) - Csv file saved in ../data/train.csv.
+31-07-2021 17:50:40 - [INFO] -  file_handler - (file_handler.py).to_csv(line 16) - Csv file saved in ../data/train.csv.
+31-07-2021 20:23:50 - [INFO] -  file_handler - (file_handler.py).read_csv(line 24) - Csv file read from test.csv.
+31-07-2021 20:23:50 - [INFO] -  file_handler - (file_handler.py).to_csv(line 16) - Csv file saved in ./test.csv.
+31-07-2021 20:23:50 - [INFO] -  file_handler - (file_handler.py).to_csv(line 16) - Csv file saved in ./test.csv.
+31-07-2021 21:29:30 - [INFO] -  file_handler - (file_handler.py).read_csv(line 24) - Csv file read from ../data/train.csv.
+31-07-2021 21:34:01 - [INFO] -  file_handler - (file_handler.py).read_csv(line 24) - Csv file read from ../data/train.csv.
+31-07-2021 21:39:26 - [INFO] -  file_handler - (file_handler.py).read_csv(line 24) - Csv file read from ../data/train.csv.
+31-07-2021 22:08:49 - [INFO] -  file_handler - (file_handler.py).save_model(line 45) - Linear_Regression model Linear_Regression2021-07-31-19:08:49.pkl saved in ../models.
+31-07-2021 22:24:47 - [INFO] -  file_handler - (file_handler.py).save_model(line 45) - Random Forest Regressor model Random Forest Regressor2021-07-31-19:24:47.pkl saved in ../models.
+31-07-2021 22:47:42 - [INFO] -  file_handler - (file_handler.py).save_model(line 45) - Light_GBM_Regressor model Light_GBM_Regressor2021-07-31-19:47:42.pkl saved in ../models.
+31-07-2021 22:51:20 - [INFO] -  file_handler - (file_handler.py).save_model(line 45) - XGB_Regressor model XGB_Regressor2021-07-31-19:51:19.pkl saved in ../models.
+31-07-2021 23:05:57 - [INFO] -  file_handler - (file_handler.py).read_csv(line 24) - Csv file read from ../data/train.csv.
+31-07-2021 23:07:23 - [INFO] -  file_handler - (file_handler.py).read_csv(line 24) - Csv file read from ../data/train.csv.
+31-07-2021 23:07:23 - [INFO] -  file_handler - (file_handler.py).read_csv(line 24) - Csv file read from ../data/train.csv.
+31-07-2021 23:12:55 - [INFO] -  file_handler - (file_handler.py).read_csv(line 24) - Csv file read from ../data/train.csv.
+31-07-2021 23:42:39 - [INFO] -  file_handler - (file_handler.py).read_csv(line 24) - Csv file read from ../data/train.csv.
+01-08-2021 01:35:30 - [INFO] -  file_handler - (file_handler.py).read_csv(line 24) - Csv file read from ../data/train.csv.
+01-08-2021 01:51:29 - [INFO] -  file_handler - (file_handler.py).read_csv(line 24) - Csv file read from ../data/train.csv.
+01-08-2021 01:58:15 - [INFO] -  file_handler - (file_handler.py).read_csv(line 24) - Csv file read from ../data/train.csv.
+01-08-2021 02:02:03 - [INFO] -  file_handler - (file_handler.py).save_model(line 45) - Linear_Regression_Sales model Linear_Regression_Sales2021-07-31-23:02:03.pkl saved in ../models.
+01-08-2021 02:02:14 - [INFO] -  file_handler - (file_handler.py).save_model(line 45) - Linear_Regression_Customers model Linear_Regression_Customers2021-07-31-23:02:14.pkl saved in ../models.
+01-08-2021 18:58:21 - [INFO] -  file_handler - (file_handler.py).save_model(line 45) - Linear Regression_Sales model Linear Regression_Sales2021-08-01-15:58:21.pkl saved in ../models.
+01-08-2021 18:58:35 - [INFO] -  file_handler - (file_handler.py).save_model(line 45) - Linear Regression_Customers model Linear Regression_Customers2021-08-01-15:58:35.pkl saved in ../models.
+01-08-2021 19:01:09 - [INFO] -  file_handler - (file_handler.py).save_model(line 45) - XGB Regressor_Sales model XGB Regressor_Sales2021-08-01-16:01:09.pkl saved in ../models.
+01-08-2021 19:02:21 - [INFO] -  file_handler - (file_handler.py).save_model(line 45) - XGB Regressor_Customers model XGB Regressor_Customers2021-08-01-16:02:21.pkl saved in ../models.
+01-08-2021 19:03:37 - [INFO] -  file_handler - (file_handler.py).save_model(line 45) - Light GBM Regressor_Sales model Light GBM Regressor_Sales2021-08-01-16:03:37.pkl saved in ../models.
+01-08-2021 19:03:50 - [INFO] -  file_handler - (file_handler.py).save_model(line 45) - Light GBM Regressor_Customers model Light GBM Regressor_Customers2021-08-01-16:03:50.pkl saved in ../models.
+01-08-2021 19:12:29 - [INFO] -  file_handler - (file_handler.py).save_model(line 45) - Random Forest Regressor_Sales model Random Forest Regressor_Sales2021-08-01-16:11:27.pkl saved in ../models.
+01-08-2021 19:18:45 - [INFO] -  file_handler - (file_handler.py).save_model(line 45) - Random Forest Regressor_Customers model Random Forest Regressor_Customers2021-08-01-16:18:05.pkl saved in ../models.
+01-08-2021 19:53:21 - [INFO] -  file_handler - (file_handler.py).read_csv(line 24) - Csv file read from ../data/train.csv.
