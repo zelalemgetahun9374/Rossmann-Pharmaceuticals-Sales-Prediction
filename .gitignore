@@ -1,3 +1,4 @@
-scripts/__pycache__
+*.csv
+*.pyc
 scripts/mlruns
-features
+notebooks/mlruns
