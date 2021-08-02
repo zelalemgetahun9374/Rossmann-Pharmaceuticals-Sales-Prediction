@@ -1,7 +1,3 @@
-import os
-import sys
-
-# import the child scripts
 import streamlit as st
 import awesome_streamlit as ast
 import src.pages.home
@@ -11,7 +7,7 @@ import src.pages.insights
 
 ast.core.services.other.set_logging_format()
 
-# create the pages
+# create the choices
 PAGES = {
     "Home": src.pages.home,
     "Data":src.pages.data,
