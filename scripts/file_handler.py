@@ -49,8 +49,8 @@ class FileHandler():
 
     def read_model(self, model_name):
         try:
-            name = Config.MODELS_PATH / str(f'{model_name}.pkl')
-            model = pickle.load(open(name, "rb"))
+            name = Config.MODELS_PATH / model_name
+            model = pickle.load(open(str(name), "rb"))
             self.logger.info(f'{ model_name }.pkl is read from {Config.MODELS_PATH}.')
             return model
         except FileNotFoundError:
